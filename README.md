@@ -2,11 +2,12 @@
 
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/lucaspine/" target="_blank">
-  <img alt="Lucas's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+<a href="https://www.linkedin.com/in/lucaspine/">
+  <img alt="Lucas's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://www.instagram.com/killerdeza/" target="_blank">
-  <img alt="Lucas's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/killerdeza/">
+  <img alt="Lucas's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 
 ### 👨🏻‍💻 About Me
