@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/demetriuspine/count.svg)
+
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/lucaspine/">
@@ -28,4 +30,4 @@
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=demetriuspine&show_icons=true&hide_border=true&theme=dark)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetriuspine&layout=compact&langs_count=8&theme=dark"/>
 
-![Visitor Count](https://profile-counter.glitch.me/demetriuspine/count.svg)
+
