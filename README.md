@@ -27,7 +27,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="40" height="40" />
 </p>  
 
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=demetriuspine&show_icons=true&hide_border=true&theme=dark)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetriuspine&layout=compact&langs_count=8&theme=dark"/>
-
+<div style="display: flex;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=demetriuspine&show_icons=true&hide_border=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetriuspine&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
