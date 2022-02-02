@@ -1,13 +1,14 @@
+### Visualizações
 ![Visitor Count](https://profile-counter.glitch.me/demetriuspine/count.svg)
 
-### Hi there 👋
+## Hi there 👋
 
 
 <a href="https://www.linkedin.com/in/lucaspine/">
-  <img alt="Lucas's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img alt="Lucas's LinkdeIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://www.instagram.com/killerdeza/">
-  <img alt="Lucas's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  <img alt="Lucas's Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 
 ### 👨🏻‍💻 About Me
