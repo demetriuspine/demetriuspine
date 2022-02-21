@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/lucaspine/">
   <img alt="Lucas's LinkdeIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://www.instagram.com/killerdeza/">
-  <img alt="Lucas's Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+<a href="mailto:mr.pine97@gmail.com">
+  <img alt="Lucas's e-mail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 
 ### 👨🏻‍💻 About Me
