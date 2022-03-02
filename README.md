@@ -29,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku" width="60" height="60" />
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="60" height="60" />
@@ -40,7 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60" />
 </p
 
 <div style="display: flex;">
