@@ -37,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
-</p
+</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" />
@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="typescript" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="googlecloud" width="60" height="60" />
-</p
+</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="60" height="60" />
@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original-wordmark.svg" alt="nuget" width="60" height="60" />
-</p
+</p>
 
 <div style="display: flex;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=demetriuspine&show_icons=true&hide_border=true&theme=dark"/>
