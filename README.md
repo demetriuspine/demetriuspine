@@ -1,4 +1,4 @@
-### Visualizações
+### Views
 ![Visitor Count](https://profile-counter.glitch.me/demetriuspine/count.svg)
 
 ## Hi there 👋
